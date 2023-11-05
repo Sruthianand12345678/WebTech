@@ -1,0 +1,126 @@
+//HTML CODE:
+<!DOCTYPE html>
+<html>
+<head>
+<title>Resume</title>
+<link rel="stylesheet" href="cv.css">
+</head>
+<body>
+<header>
+<strong>
+<h1>M.Sruthi</h1>
+<h2>Phone: 7981331008</h2>
+<h3>Email: sruthianand1234@gmail.com</h3>
+</strong>
+</header>
+<hr>
+<h2>Objective:</h2>
+<p>As a Computer Science Engineering student looking for an opportunity
+of internship from May 2023 to gain insights into real time problem apply my
+skills in solving them. I aim to use this experience to enhance my
+understanding
+and contribute effectively to my studies and project work</p>
+<h2>Education</h2>
+<p>Pursuing B.Tech. Computer Science Engineering (CSE) in Shiv Nadar
+University, Chennai. Expecting second year completion in May 2023. </p>
+<h2>Technical Skills</h2>
+<ul>
+<li>Programming Languages: C, Java and Python</li>
+<li>Database:SQL</li>
+<li>Microsoft Office (Word, Excel, PowerPoint) </li>
+</ul>
+</p2>
+<h2 >Course Work</h2>
+<p>
+IV Semester
+Computer Networks, Design and Analysis of Algorithms Operating Systems,
+Agile Scrum Process
+Foundations of Data Science Introduction to Sensor Technology
+III Semester
+Data Structures, Database Management Systems Object Oriented Programming
+Software Engineering and Design Discrete Mathematics and
+Graph Theory
+II Semester
+Python Introduction to Internet of things
+I Semester
+C Programming
+</p>
+<h2>Field of Interest</h2>
+<ul>
+<li>Data Science </li>
+<li>Interest of Things (IOT)</li>
+<li>Machine Learning</li>
+</ul>
+<h2>Soft Skills</h2>
+<ul>
+<li>A team player, self-motivated, adaptability and flexibility in
+the working environment</li>
+<li>Excellent communication and inter personal skills</li>
+<li>Profound commitment and determination towards work and
+professional goals</li>
+<li>Good analytical power and comprehensive problem solving
+abilities</li>
+</p2>
+<h2>Academic Profile</h2>
+<table>
+<tr>
+<th>Class</th>
+<th>Year of completion</th>
+<th>Percentage</th>
+</tr>
+<tr>
+<td>tenth</td>
+<td>2019</td>
+<td>CGPA 10/10</td>
+</tr>
+<tr>
+<td>Intermediate</td>
+<td>2021</td>
+<td>98.4%</td>
+</tr>
+</table>
+</body>
+</html>
+//CSS CODE:
+body{
+ font-family: Arial, Helvetica, sans-serif;
+ margin: 0;
+ padding: 0;
+ color:cornflowerblue;
+ line-height: 1.6;
+ }
+ header{
+ text-align: center;
+ color: cornflowerblue;
+ margin-bottom: 20px;
+ }
+ h1,h2,h3{
+ margin: 0;
+ }
+ hr{
+ border: 1px solid black;
+ }
+ h2{
+ color:cornflowerblue;
+ margin-top: :20px;
+ }
+ p,ul{
+ color: black;
+ margin:10px,0
+ }
+ ul{
+ list-style-type: disc;
+ padding-left: 20px;
+ }
+ table{
+ width:100%;
+ border-collapse: collapse;
+ margin-top: 20px;
+ }
+ table,th,td{
+ border:1px solid black;
+ paddig:8px
+ }
+ th{
+ background-color: cornflowerblue;
+ colo
