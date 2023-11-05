@@ -1,0 +1,78 @@
+HTML CODE:
+<!DOCTYPE html>
+<html>
+ <body>
+ <title>resume</title>
+ <header>
+ <strong>
+ <h1 style="color:cornflowerblue;">M. Sruthi</h1>
+ <h2 style="color:cornflowerblue;">Phone:7981331008</h2>
+ <a href="mailto:sruthianand1234@gmail.com" target="_blank">
+ <p id="email">sruthianand1234@gmail.com</p>
+ </a>
+ </strong>
+ </header>
+ <hr>
+ <h2 style="color:cornflowerblue;">Objective:</h2>
+ <p1>As a Computer Science Engineering student looking for an
+opportunity of internship from May 2023 to get insights in learning about real
+time problems where I can apply my skills from my education. Which enables me
+to take the learning experience from internship and apply these in my studies
+and project work</p1>
+ <h2 style="color:cornflowerblue;">Education</h2>
+ <p2>Pursuing B.Tech. Computer Science Engineering (CSE) in Shiv Nadar
+University, Chennai. Expecting second year completion in May 2023. </p2>
+ <h2 style="color:cornflowerblue;">Technical Skills</h2>
+ <p2>Programming Languages: C, Java and Python
+ Microsoft Office (Word, Excel, PowerPoint)
+ </p2>
+ <h2 style="color:cornflowerblue;">Course Work</h2>
+ <p2>
+ IV Semester
+Computer Networks, Design and Analysis of Algorithms Operating Systems,
+Agile Scrum Process
+Foundations of Data Science Introduction to Sensor Technology
+III Semester
+Data Structures, Database Management Systems Object Oriented
+Programming
+ Software Engineering and Design Discrete Mathematics
+and Graph Theory
+II Semester
+Python Introduction to Internet of things
+I Semester
+ C Programming
+ </p2>
+ <h2 style="color:cornflowerblue;">Field of Interest</h2>
+ <p2>
+ Cloud Computing
+ Interest of Things (IOT)
+ </p2>
+ <h2 style="color:cornflowerblue;">Soft Skills</h2>
+ <p2>
+ A team player, self-motivated, adaptability and flexibility in the
+working environment
+ Excellent communication and inter personal skills
+ Profound commitment and determination towards work and
+professional goals
+ Good analytical power and comprehensive problem solving abilities
+ </p2>
+ <h2 style="color:cornflowerblue;">Academic Profile</h2>
+ <table>
+ <tr>
+ <th>Class</th>
+ <th>Year of completion</th>
+ <th>Percentage</th>
+ </tr>
+ <tr>
+ <td>tenth</td>
+ <td>2019</td>
+ <td>CGPA 10/10</td>
+ </tr>
+ <tr>
+ <td>Intermediate</td>
+ <td>2021</td>
+ <td>98.4%</td>
+ </tr>
+ </table>
+ </body>
+</html>
